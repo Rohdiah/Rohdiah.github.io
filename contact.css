@@ -1,0 +1,29 @@
+.navbar {
+    
+    background:white;
+    padding: 10px;
+    overflow: hidden;
+    position: relative;
+    
+}
+.navbar a {
+    float: right;
+    color: green;
+    font-size: medium;
+    text-decoration: none;
+    padding: 10px
+}
+
+.myname {
+    float: left;
+    margin-left: 0px;
+    background-color:white;
+    color: green;
+    font-size: 50px;
+    left: 0;
+}
+.Contact {
+    background-color: white;
+    color: green;
+   padding-bottom: 50px;
+}

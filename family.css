@@ -1,0 +1,42 @@
+.navbar {
+    
+    background:white;
+    padding: 10px;
+    overflow: hidden;
+    position: relative;
+    
+}
+.navbar a {
+    float: right;
+    color: green;
+    font-size: medium;
+    text-decoration: none;
+    padding: 10px
+}
+
+.myname {
+    float: left;
+    margin-left: 0px;
+    background-color:white;
+    color: green;
+    font-size: 50px;
+    left: 0;
+}
+
+.image img {
+    float: left;
+    border: 10px solid rgb(17, 210, 146);
+    border-radius: 50%;
+   width: 450px;
+    height:450px; 
+}
+
+.content{
+    float: right;
+    width: 60%;
+    line-height: 50px;
+}
+.Myfamily {
+    background-color: white;
+    color:green;
+}
